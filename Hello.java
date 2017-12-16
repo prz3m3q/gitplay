@@ -4,4 +4,6 @@ class Hello {
 	}
 
 	public static void bar() {}
+
+	public vod foo() {}
 }
