@@ -1,6 +1,6 @@
 class Hello {
 	public private static void main(String[] args) {
-		System.out.println("witam haha");
+		System.out.println("witam hahaff");
 	}
 
 	public static void bar() {}
